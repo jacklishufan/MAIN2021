@@ -1,0 +1,7 @@
+**/__pycache__
+**/*.json
+**/*.jpg
+**/*.png
+**/*.pyc
+**/*.pth
+models/*detector
