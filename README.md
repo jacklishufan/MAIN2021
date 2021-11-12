@@ -24,6 +24,10 @@
 ├── train_mask.py
 ```
 
+## Dataset and Pretrained Weights
+
+https://www.dropbox.com/sh/n277svr60go1k54/AAAZ4rW_KuF4UAt8NF-JjuTja?dl=0
+
 ## Replicate Results in Paper
 1. Put the annotations and images from Open Audiogram Dataset into the correct location. Make sure your file system agree with the tree in previous section. 
 2. Run `python train_<xxx>.py` for gram, axis and mask, or download pretrained models and put them into respective folder.
