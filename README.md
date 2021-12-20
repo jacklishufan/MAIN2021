@@ -1,10 +1,17 @@
 # MAIN: A Multi-Stage Audiogram Interpretation Network.
 
-This is a code repo of the paper Interpreting Audiograms with Multi-stage Neural Networks
-
-link 
-
-`to be added once we published it on Arxiv`
+This is a code repo of the paper 
+ ```
+ @misc{li2021interpreting,
+      title={Interpreting Audiograms with Multi-stage Neural Networks}, 
+      author={Shufan Li and Congxi Lu and Linkai Li and Jirong Duan and Xinping Fu and Haoshuai Zhou},
+      year={2021},
+      eprint={2112.09357},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+ ```
+at this link https://arxiv.org/abs/2112.09357
 
 ## File System Structure
 
@@ -32,7 +39,7 @@ link
 
 ## Dataset and Pretrained Weights
 
-`Masked Out Untill We Make Sure There Is No Copyright Issue`
+https://www.dropbox.com/sh/n277svr60go1k54/AAAZ4rW_KuF4UAt8NF-JjuTja?dl=0
 
 ## Replicate Results in Paper
 1. Put the annotations and images from Open Audiogram Dataset into the correct location. Make sure your file system agree with the tree in previous section. 
